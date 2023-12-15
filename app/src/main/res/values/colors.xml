@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blanco">#CFCFCF</color>
+    <color name="gris">#B3CFCFCF</color>
+    <color name="negro">#171717</color>
+
+    <color name="teclasOperadoresAvanzados">#012035</color>
+    <color name="teclasOperadores">#25457A</color>
+    <color name="teclaLimpiar">#491616</color>
+    <color name="teclaIgual">#445F8E</color>
+    <color name="teclaPunto">#1A2547</color>
+    <color name="teclasNumeros">#1E2F4C</color>
+
+    <color name="fondoTeclado">#172337</color>
+    <color name="fondoBoton">#1A2840</color>
+    <color name="fondoPantalla">#FD000A10</color>
+</resources>
